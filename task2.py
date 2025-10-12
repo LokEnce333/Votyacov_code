@@ -94,3 +94,4 @@ else:
         print(d - a + 1)
     else:
         print(0)
+# Ответ: 7
