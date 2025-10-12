@@ -20,7 +20,7 @@ while(K <= N):
         sumy += K
     K += 1
 print(sumy)
-
+# Ответ: 768182441
 
 # Задание 4
 N = int(input())
@@ -29,3 +29,4 @@ factorial = 1
 for i in range(1, N+1):
     factorial *= i
 print(factorial)
+# Ответ: 3628800
