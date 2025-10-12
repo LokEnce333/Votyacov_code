@@ -22,7 +22,7 @@ while(K <= N):
 print(sumy)
 
 
-# Задание 3
+# Задание 4
 N = int(input())
 
 factorial = 1
