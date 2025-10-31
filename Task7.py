@@ -22,4 +22,3 @@ print(sum([1 for i in range(0, len(arr), 2) if arr[i] % 2 == 0]))
 # Задача 5
 print(len([x for x in range(1, 1001) if (x % 7 == 0) or (x % 11 == 0)]))
 # Ответ: 220
-
