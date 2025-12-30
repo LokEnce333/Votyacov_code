@@ -40,7 +40,7 @@ def custom_print(*args, **kwargs):
     if 'sep' in kwargs:
         sepy = kwargs['sep']
         g += 1
-    endy = ''
+    endy = '\n'
     if 'end' in kwargs:
         endy = kwargs['end']
         g += 1
